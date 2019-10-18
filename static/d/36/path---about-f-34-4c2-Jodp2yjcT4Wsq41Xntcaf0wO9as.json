@@ -1,0 +1,6 @@
+{
+  "data": {
+    "site": { "siteMetadata": { "title": "Title from siteMetadata" } }
+  },
+  "pageContext": { "isCreatedByStatefulCreatePages": true }
+}
