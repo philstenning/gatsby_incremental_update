@@ -1,9 +1,9 @@
 {
   "data": {
     "markdownRemark": {
-      "html": "<p>Pandas are really sweet.</p>\n<p>Here is a video of a panda eating sweets</p><h3>this was added to the json file in the static folder/d/225 ✂🗑📍<h3/>",
+      "html": "<h3>this was added to the json file @ docs/static/d/225 <h3/>",
       "frontmatter": {
-        "title": "Edited after build time Panda this is a dynamic page"
+        "title": "Edited after build time,this is a dynamic page from a static asset"
       }
     }
   },
